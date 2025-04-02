@@ -7,7 +7,7 @@ Welcome to my portfolio! Here, you’ll find my work in **data analysis, SQL, Py
 ### 1️⃣ Covid19_Data_Analytics_Projects Dashboard (Excel)  
 📌 **Description:** Analyzed total deaths and covid19 cases in excel to identify vaccine generation around the world.  
 📌 **Tools Used:** Excel  
-📌 **View Dashboard:** [Tableau Public Link](your-link-here)  
+📌 **View Dashboard:** [ Public Link] (https://github.com/divya2547/Data_analytics_projects/blob/e254b52eb6be4a33c9742cd3783a8923c2f00b98/Covid_Data_Analysis_Project%20(1).xlsx)  
 
 ### 2️⃣ Customer Churn Prediction (Python)  
 📌 **Description:** Used machine learning to predict customer churn for a telecom company.  
