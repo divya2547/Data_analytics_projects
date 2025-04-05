@@ -9,9 +9,9 @@ Welcome to my portfolio! Here, you’ll find my work in **data analysis, SQL, Py
 📌 **Tools Used:** Excel  
 📌 **View Dashboard:** [ Public Link] (https://github.com/divya2547/Data_analytics_projects/blob/e254b52eb6be4a33c9742cd3783a8923c2f00b98/Covid_Data_Analysis_Project%20(1).xlsx)  
 
-### 2️⃣ Customer Churn Prediction (Python)  
-📌 **Description:** Used machine learning to predict customer churn for a telecom company.  
-📌 **Tools Used:** Python, Pandas, Scikit-Learn  
+### 2️⃣ Retail Data Analysis  (Python+SQL)  
+📌 **Description:** Used Python to clean and transform the data and load the data into SQL for data analysis.  
+📌 **Tools Used:** Python, Pandas, SQL server management studio.   
 📌 **Code:** [GitHub Repository](your-repo-link)  
 
 ### 3️⃣ SQL Data Cleaning – Airbnb Dataset  
