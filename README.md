@@ -12,7 +12,7 @@ Welcome to my portfolio! Here, you’ll find my work in **data analysis, SQL, Py
 ### 2️⃣ Retail Data Analysis  (Python+SQL)  
 📌 **Description:** Used Python to clean and transform the data and load the data into SQL for data analysis.  
 📌 **Tools Used:** Python, Pandas, SQL server management studio.   
-📌 **Code:** [GitHub Repository](your-repo-link)  
+📌 **Code:** https://github.com/divya2547/Python-SQL
 
 ### 3️⃣ SQL Data Cleaning – Airbnb Dataset  
 📌 **Description:** Cleaned and structured Airbnb data for better insights using SQL.  
